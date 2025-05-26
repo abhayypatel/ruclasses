@@ -1,0 +1,22 @@
+/* src/index.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+}
+
+.MuiAppBar-root {
+  background-color: #CC0033;
+}
+
+.MuiButton-textPrimary {
+  color: #000000;
+}
+
+.MuiTypography-h6 {
+  color: #000000;
+}
+
+.MuiContainer-root {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
