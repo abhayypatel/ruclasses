@@ -70,8 +70,4 @@ npm start
 
 ## 🎯 Built For Students, By Students
 
-RUClasses helps you avoid the guesswork when picking classes. No more wondering if a professor is tough or if the workload is manageable – get the real story from students who've been there.
-
----
-
-**Built with ❤️ for the Rutgers community** 
+RUClasses helps you avoid the guesswork when picking classes. No more wondering if a professor is tough or if the workload is manageable – get the clear picture from students who've been there.
