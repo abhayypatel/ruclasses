@@ -21,9 +21,9 @@ RUClasses is a web app where Rutgers students can review their classes and brows
 
 ## ⚙️ Tech Stack
 
-**Frontend:** React, Material-UI, React Router
-**Backend:** Firebase (Authentication, Firestore Database)
-**Authentication:** Google OAuth
+**Frontend:** React, Material-UI, React Router <br>
+**Backend:** Firebase (Authentication, Firestore Database) <br>
+**Authentication:** Google OAuth <br>
 **Deployment:** Live on the web
 
 ---
